@@ -1,7 +1,6 @@
 
 pandas==2.2.3
 langchain==0.3.25
-langchain-document-loaders
 langchain-text-splitters==0.3.8
 langchain-community==0.3.24
 langchain-core==0.3.60
